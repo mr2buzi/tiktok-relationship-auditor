@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sensitive browser state and generated reports
+tiktok_profile*/
+tiktok_session*/
+output_v2/
+*.log
+test_input.txt
+
+# Personal datasets and legacy local experiments
+followers.txt
+following.txt
+cleanfollowers.txt
+cleanfollowing.txt
+non_mutuals.txt
+1.py
+compare_followers.py
+extract.py
+list.py
+list_maker.py
+tiktok_bot.py
+tiktok_scraper.py
+unfollow.py
+kk
+instaAI/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
